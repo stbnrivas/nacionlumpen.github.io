@@ -6,3 +6,5 @@ permalink: /about/
 
 Nación Lumpen es una lista de correo de apasionados del software a los que les
 gusta hacer cosas. Entre ellas, un podcast.
+
+![Bandera de nación lumpen](../img/background.png)
