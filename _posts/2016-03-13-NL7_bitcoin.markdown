@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "NL7: Bitcoin contado a los informáticos"
+date:   2016-03-13 20:23:00 +0100
+categories: podcast
+---
+
+Escuchar en
+[Spreaker](http://www.spreaker.com/user/nacionlumpen/nl7-bitcoin-contado-a-los-informa-ticos) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+Episodio 7 del podcast en el damos una introducción a los aspectos técnicos de
+Bitcoin. Por una vez en la vida nos acordamos de recordar que tenemos cuenta
+en twitter y recordamos que esta web existe.
+
+Dedicatoria a Whitfield Diffie y Martin Hellman por su trabajo sobre la
+criptografía de clave pública.
+
+Participantes:
+
+ - Jaume Pernas, [@jaumepernas](https://twitter.com/jaumepernas)
+ - Álvaro Castellanos, [@AlvaroCaste](https://twitter.com/AlvaroCaste)
+ - Sebastián Ortega, [@_sortega](https://twitter.com/_sortega)
+
+Enlaces:
+
+ - El paper original: [A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+ - [Bitcoin and Cryptocurrency Technologies][book] (libro)
+ - Dirección asociada al número 1: [1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH](https://blockchain.info/address/1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH)
+ - Bloque que se minó mientras grabamos: [#402465](https://blockchain.info/block/00000000000000000283ca8297d5add5a8a1a02b84930dd9ff642a86446b4d59)
+ - [How a bitcoin transaction works][tx] (artículo)
+ - Para saber más: [Bitcoin wiki][wiki]
+
+[book]: https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
+[tx]: https://www.cryptocoinsnews.com/bitcoin-transaction-really-works/
+[wiki]: https://en.bitcoin.it/wiki
