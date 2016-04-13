@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "NL8: asomándonos al desarrollo móvil"
+date:   2016-04-13 21:00:00 +0100
+categories: podcast
+---
+
+Escuchar en
+[Spreaker](http://www.spreaker.com/user/nacionlumpen/nl8-asomandonos-al-desarrollo-movil) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+Hoy nos asomamos al desarrolo móvil de la mano de estos monstruos:
+
+ - Diego Freniche, [@dfreniche](https://twitter.com/dfreniche)
+ - Daniel Martín, [@dmartincy](https://twitter.com/dmartincy)
+ - Marcos Trujillo, [@aracem](https://twitter.com/aracem)
+
+Presenta Álvaro Castellanos y hace bulto Sebastián Ortega, el pesado de
+siempre.
+
+Dedicatoria a Nikola Tesla (Nicolás para Álvaro, sex-symbol para Freniche).
+
+Enlaces:
+
+ - [Xamarin](https://www.xamarin.com)
+ - [Real Challenges in Mobile App Development](http://www.ece.ubc.ca/~amesbah/docs/mona-esem13.pdf)
+ - [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+ - Kent Beck on [short feedback loops](https://www.facebook.com/notes/kent-beck/shorter-feedback-is-not-always-bett/1097086386990891)
+ - [Clojure on Android!](http://clojure-android.info)
+
