@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "NL9: saliendo del fango"
+date:   2016-04-22 21:00:00 +0100
+categories: podcast
+---
+
+Escuchar en Spreaker
+([parte1](https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango), [parte2](https://www.spreaker.com/user/nacionlumpen/nl9-saliendo-del-fango-parte-2)) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+Charlamos sobre el artículo de culto *Out of the Tar Pit*, de Peter Marks y
+Ben Moseley. Contamos con los siguientes contertulios:
+
+ - Daniel Martín, [@dmartincy](https://twitter.com/dmartincy)
+ - Álvaro Castellanos, [@AlvaroCaste](https://twitter.com/AlvaroCaste)
+ - Mateu Adsuara, [@mateuadsuara](https://twitter.com/mateuadsuara)
+ - Sebastián Ortega, [@_sortega](https://twitter.com/_sortega)
+
+Dedicatoria para los autores del artículo y, de forma transitiva, a la gente
+en la que se inspiraron (como Fred Brooks, Dijkstra...).
+
+Enlaces:
+
+ - [Artículo original](http://shaffner.us/cs/papers/tarpit.pdf)
+ - [Traducción parcial al castellano](https://github.com/sortega/fango)
+
