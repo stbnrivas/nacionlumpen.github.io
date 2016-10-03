@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "NL10: programación funcional"
+date:   2016-10-03 00:00:00 +0100
+categories: podcast
+---
+
+Escuchar en Spreaker
+[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl10-programacion-funcional) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+Aprovechando el marco incomparable que nos ofrecía la [Lambda World][lambda]
+nos propusimos hablar sobre programación funcional con unos invitados
+excepcionales: [Alfonso García-Caro][alfonso], autor de [Fable][fable]
+(compilador de F# a JS) y [Alex Serrano][alex], autor de [Beginning
+Haskel][beginning]. Con ellos, varios de los clásicos miembros de NL: Álvaro
+Castellanos presentando, Sebastián Ortega con un resfriado que debería haberle
+hecho quedarse en casa y Álvaro Polo, todavía adaptándose a su reciente fama
+como [Alvarote][alvarote].
+
+[lambda]: http://www.lambda.world/
+[alfonso]: https://twitter.com/alfonsogcnunez
+[alex]: https://twitter.com/trupill
+[beginning]: https://www.amazon.co.uk/Beginning-Haskell-Project-Based-Approach-Apress/dp/1430262508
+[alvarote]: https://www.youtube.com/watch?v=vNu3GjVfMYc
+
+Tenemos que agradecer a la organización de Lambda World que nos facilitasen la
+sala donde grabamos y donde se nos ve tan lozanos (hasta que empezó a fallar
+el aire acondicionado):
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Tarde
+de podcast para <a href="https://twitter.com/nacionlumpen">@nacionlumpen</a>.
+<a href="https://t.co/xNX0RI8QsZ">pic.twitter.com/xNX0RI8QsZ</a></p>&mdash;
+Alvaro Polo (@apolovald) <a
+href="https://twitter.com/apolovald/status/781831156023037952">September 30,
+2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+La dedicatoria del capítulo fue elegida por votación entre Alonzo Church y
+Haskell Curry. Ganó Church por tres votos a uno a pesar del fervor de Alex
+para con Haskell.
+
+Enlaces/referencias:
+
+ - Muchos aforismos de Alan Perlis fueron mencionados:
+   [web](http://www.cs.yale.edu/homes/perlis-alan/quotes.html).
+ - La currificación debería llamarse
+   ["Schönfinkelisation"](https://en.wikipedia.org/wiki/Moses_Sch%C3%B6nfinkel)
+   pero no esperéis que lo pronunciemos bien en el podcast.
+ - [Why Functional Programming Matters](http://csci221.artifice.cc/pdf/The%20Computer%20Journal-1989-Hughes-98-107.pdf) by John Hughes.
+ - [Tipos lineales](https://en.wikipedia.org/wiki/Substructural_type_system#Linear_type_systems),
+   que permiten optimizaciones muy agresivas.
+ - [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala), el
+   famoso "libro rojo".
+ - [GObject](https://developer.gnome.org/gobject/stable/) o cómo hacer un
+   esfuerzo titánico para tener OO en C.
+ - [Idris](http://www.idris-lang.org/), un lenguaje tan fuertemente tipado que
+   el autocompletado del editor a veces te escribe código dadas las
+   signaturas.
+ - [Theorems For Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf),
+   un paper de Philip Wadler.
+ - Las macros son tan poderosas como para poder tener gorutinas implementadas
+   como biblioteca en Clojure:
+   [core.async](https://clojure.github.io/core.async/).
+ - [MapReduce](https://en.wikipedia.org/wiki/MapReduce), el paradigma
+   funcional que la gente usa sin saber que lo es.
+ - Simon Peyton Johnes [explica](https://www.youtube.com/watch?v=iSmkqocn0oQ)
+   por qué sin efectos Haskell sólo calentaría la habitación.
+ - [Elm](elm) y [Fable](fable), no eches de menos la programación funcional en
+   la web.
+
+[elm]: http://elm-lang.org/
+[fable]: https://fable-compiler.github.io/
