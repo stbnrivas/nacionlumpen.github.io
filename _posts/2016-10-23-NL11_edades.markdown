@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "NL11: Las edades del programador"
+date:   2016-10-23 00:00:00
+categories: podcast
+---
+
+Escuchar en Spreaker
+[Spreaker](https://www.spreaker.com/user/nacionlumpen/nl11-las-edades-del-programador) o en
+[iTunes](https://itunes.apple.com/es/podcast/nacion-lumpen/id1023465004?l=en&mt=2)
+
+En esta ocasión buscamos dar una visión del mundo de la programación desde la
+perspectiva de un programador de la franja de 20 años hasta la de uno de la
+franja de 50 años.
+
+ - Alex Guerrero, [@alexguerrero_](https://twitter.com/alexguerrero_) 
+ - Álvaro Castellanos, [@alvarocaste](https://twitter.com/alvarocaste) 
+ - Sebastián Ortega, [@_sortega](https://twitter.com/_sortega) 
+ - Cesar Jiménez, [@eltator](https://twitter.com/eltator) 
+ - Alberto Gómez, [@agocorona](https://twitter.com/agocorona) 
+
+Dedicatoria para [Dennis Ritchie][dennis] por el 5º aniversario de su fallecimiento.
+
+[dennis]: https://en.wikipedia.org/wiki/Dennis_Ritchie
+
+Enlaces/referencias:
+
+ - La teoría de desarrollo cognitivo de Jean Piaget
+   [web](https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development).
